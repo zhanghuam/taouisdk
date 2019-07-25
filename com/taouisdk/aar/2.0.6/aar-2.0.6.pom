@@ -8,9 +8,9 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>com.comres</groupId>
+      <groupId>taohuitao-android</groupId>
       <artifactId>aar</artifactId>
-      <version>1.1.7</version>
+      <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
